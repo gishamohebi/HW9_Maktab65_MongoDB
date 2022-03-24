@@ -12,7 +12,7 @@ capture just one sample of insertion.
 
 B. Make the following queries. Capture the results and paste them to your
 answer(PDF).
-Note: Capture the queries and its results.
+Note: Capture the queries and its results.\
 -At the end of each day, we want to grant a discount code or a gift to those
 whose birthday is today and send them a “Happy Birthday” email. Find the
 full name and email address of these guys.(By running the query we can
