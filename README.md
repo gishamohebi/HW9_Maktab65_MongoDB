@@ -2,6 +2,8 @@
 Exercise related to working with MongoDB
 
 
+To check the result please download the pdf file
+
 The exercise : 
 
 A. After downloading data, save them to the mongodb manually.
